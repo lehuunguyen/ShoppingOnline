@@ -8,4 +8,5 @@ public class AddressDto {
     private Long userId;
     private String name;
     private String address;
+    private int priority;
 }
